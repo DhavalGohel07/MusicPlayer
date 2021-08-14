@@ -57,7 +57,7 @@ body{
   margin-left: -3px;
 /*   color: var(--lightblack); */
   color: rgb(135, 32, 32);
-  font-family: cursive,Consolas, 'Courier New', monospace;
+  font-family:jokerman;
 }
 .img-area{
   width: 100%;
@@ -185,7 +185,7 @@ body{
 .music-list{
   position: absolute;
   /* background: var(--white); */
-  background-color: rgb(80, 122, 238);
+  background: rgb(70, 158, 112);
   width: 95%;
   left: 10px;
   bottom: -55%;
