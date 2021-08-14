@@ -187,7 +187,7 @@ body{
   /* background: var(--white); */
   background: rgb(70, 158, 112);
   width: 95%;
-  left: 4px;
+  left: 6px;
   bottom: -55%;
   opacity: 0;
   pointer-events: none;
